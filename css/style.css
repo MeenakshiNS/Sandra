@@ -6,6 +6,12 @@
   --dark: #2C3E50;
 }
 
+.w-100.img-fluid.mb-4 {
+    height: 35rem; /* Your existing height */
+    object-fit: cover; /* This will crop the image to fit its container while maintaining aspect ratio */
+    width: 100%; /* Your existing width */
+   
+}
 #spinner {
   opacity: 0;
   visibility: hidden;
