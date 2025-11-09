@@ -7,7 +7,7 @@
 }
 
 .w-100.img-fluid.mb-4 {
-    height: 29rem; /* Your existing height */
+    height: 25rem; /* Your existing height */
     object-fit: cover; /* This will crop the image to fit its container while maintaining aspect ratio */
     width: 100%; /* Your existing width */
    
